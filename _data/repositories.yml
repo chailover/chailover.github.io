@@ -5,6 +5,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - abdullah-makhokhar/nfl-2024-pbp-analysis
+  - abdullah-makhokhar/2024-nfl-pbp-analysis
   - abdullah-makhokhar/stacked
   - abdullah-makhokhar/fragrance-generator
