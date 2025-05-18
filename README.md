@@ -1,4 +1,3 @@
-````markdown
 # Abdullah's Portfolio
 
 This is my personal website. It shares who I am, what I’ve built, and what I’m learning. The site includes my bio, resume, and a few projects I'm working on.
