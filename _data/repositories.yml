@@ -1,10 +1,10 @@
 github_users:
-  - chailover
+  - abdullah-mkhokhar
 
 
 repo_description_lines_max: 2
 
 github_repos:
-  - chailover/nfl-2024-pbp-analysis
-  - chailover/stacked
-  - chailover/fragrance-generator
+  - abdullah-mkhokhar/nfl-2024-pbp-analysis
+  - abdullah-mkhokhar/stacked
+  - abdullah-mkhokhar/fragrance-generator
